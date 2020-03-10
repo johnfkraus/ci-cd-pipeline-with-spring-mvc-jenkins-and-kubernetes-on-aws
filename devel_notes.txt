@@ -1,0 +1,8 @@
+# CI-CD Demo app
+
+https://bitbucket.org/blog/setting-up-a-ci-cd-pipeline-with-spring-mvc-jenkins-and-kubernetes-on-aws
+
+
+sample app from here: https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/
+
+
